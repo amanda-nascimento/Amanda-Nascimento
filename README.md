@@ -7,7 +7,7 @@
 <img align="right" alt="Code Girl image" src="./codeGirl.jpg"  width="300px"/>
 
 ## My name is Amanda Nascimento
-(Java | Spring Boot | AWS | React JS | Angular | Typescript | Javascript | HTML | CSS ) 🚀
+(Javascript | Angular | HTML | CSS | Spring Boot | AWS ) 🚀
 - 👩‍💻 Web Engineer @[NttData](https://www.itau.com.br/](https://br.nttdata.com/)
-- 🎓 Internet Systems @ [FATEC Carapicuíba](https://portal.ufpel.edu.br/](https://www.fateccarapicuiba.edu.br/)
+- 🎓 Internet Systems @ [FATEC Carapicuíba](https://www.fateccarapicuiba.edu.br/)
 - 🌐 Passionate about web development
