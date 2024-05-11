@@ -8,6 +8,6 @@
 
 ## My name is Amanda Nascimento
 (Javascript | Angular | HTML | CSS | Spring Boot | AWS ) 🚀
-- 👩‍💻 Web Engineer @[NttData](https://www.itau.com.br/](https://br.nttdata.com/)
+- 👩‍💻 Web Engineer @[NttData](https://br.nttdata.com/)
 - 🎓 Internet Systems @ [FATEC Carapicuíba](https://www.fateccarapicuiba.edu.br/)
 - 🌐 Passionate about web development
