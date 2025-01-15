@@ -10,6 +10,6 @@
 - 👩‍💻 Web Engineer @[NttData](https://br.nttdata.com/)
 - 🎓 Internet Systems @ [FATEC Carapicuíba](https://www.fateccarapicuiba.edu.br/)
 - 🌐 Passionate about web development
--  For a more inclusive world for moms introduced to the world of computing! #GirlPower
+#GirlPower #PCD
 
 
