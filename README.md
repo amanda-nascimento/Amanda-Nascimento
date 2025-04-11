@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amsnascimento/)](https://www.linkedin.com/in/amsnascimento/)
 [![Gmail Badge](https://img.shields.io/badge/-amandamicaele.ns@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amandamicaele.ns@gmail.com)](mailto:amandamicaele.ns@gmail.com)
 
-## Meu nome é Amanda Nascimento
+## Meu nome é Amanda Nascimento :)
 
 (Backend | Java | Spring Boot | AWS | Angular | HTML | CSS) 🚀
 
