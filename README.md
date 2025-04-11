@@ -9,8 +9,8 @@
 
 - 👩‍💻 Software Developer @[Mercado Livre](https://www.mercadolivre.com.br/)
 - 🎓 Internet Systems @ [FATEC Carapicuíba](https://www.fateccarapicuiba.edu.br/)
-- 🌟 Ex-Frontend | Em transição para Backend por paixão e propósito
-- ✨ Decidi seguir meu sonho de ser desenvolvedora backend, buscando sempre entender **em profundidade** o que estou construindo — desde a escolha da tecnologia até sua aplicação na prática.
-- 🔍 Meu objetivo é ir além do "fazer funcionar". Quero compreender **como** e **por que** cada tecnologia é usada, e qual é o **melhor caminho** para cada projeto.
+- 💡 Transicionando do front-end para seguir meu sonho de trabalhar com backend! 💛
+- 🔁 Acredito que minha bagagem no front me ajuda a ter uma visão mais completa na hora de criar soluções no back-end, pensando na experiência do usuário de ponta a ponta.
+- 🎯 Meu objetivo é entender a fundo o que estou construindo — saber **como**, **por que** e **para quê** cada tecnologia é usada, e qual é o **melhor caminho técnico** para cada projeto.
 
 #GirlPower #PCD #BackEndDev
